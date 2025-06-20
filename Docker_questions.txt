@@ -1,0 +1,22 @@
+1. What is Docker and why is it used?
+2. What is the difference between a Docker container and a virtual machine?
+3. What is a Docker image? How is it different from a container?
+4. What does the docker run command do?
+5. Explain the lifecycle of a Docker container.
+6. What is Docker Hub? How is it used?
+7. How do you create a Docker image using a Dockerfile?
+8. How does Docker networking work? What are the different network drivers (bridge, host, none, overlay)?
+10. how to connect/ping one container to another container with container name ?
+11. types of volumes in docker.
+12. how to make data persistent in docker, what is default path ?
+13.What is the difference between COPY and ADD in Dockerfile?
+14. How do you optimize Docker images for faster builds and smaller size?
+15. How can you share data between containers?
+16. What is the difference between CMD and ENTRYPOINT in a Dockerfile? When would you use each?
+17. How do multi-stage builds work in Docker? Why are they useful?
+18. What are some best practices for writing a secure and efficient Dockerfile?
+19. What is Docker Compose and when would you use it?
+20. How do you handle secret management in Docker containers?
+21. Explain how Docker handles isolation and resource control (namespaces and cgroups).
+22. create sample docker file, docker sample docker-compose file.
+23. what is base image in docker, types of images in docker ? which one we should use for security reason
